@@ -1,2 +1,1 @@
-# Proyecto_1
-Buscaminas C++
+Esto es un prototipo
