@@ -1,0 +1,3 @@
+C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/build/CMakeFiles/proyecto-estructuras.dir
+C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/build/CMakeFiles/edit_cache.dir
+C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/build/CMakeFiles/rebuild_cache.dir
