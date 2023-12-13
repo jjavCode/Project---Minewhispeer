@@ -4,9 +4,9 @@
 #include <cstdlib>
 #include <ctime>
 #include <iomanip>
-#include "score.hpp"
-#include "highScores.hpp"
-#include "game.hpp"
+#include "src/dates/score.hpp"
+#include "src/dates/highScores.hpp"
+#include "src/logic/game.hpp"
 
 using namespace std;
 

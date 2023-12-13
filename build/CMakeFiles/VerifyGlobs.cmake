@@ -5,7 +5,7 @@ cmake_policy(SET CMP0009 NEW)
 # PROJECT_SOURCES at CMakeLists.txt:13 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/src/*.cpp")
 set(OLD_GLOB
-  "C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/src/main.cpp"
+  "C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/src/presentation/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

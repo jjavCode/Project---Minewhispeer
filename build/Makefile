@@ -129,29 +129,29 @@ proyecto-estructuras/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyecto-estructuras.dir\build.make CMakeFiles/proyecto-estructuras.dir/build
 .PHONY : proyecto-estructuras/fast
 
-src/main.obj: src/main.cpp.obj
-.PHONY : src/main.obj
+src/presentation/main.obj: src/presentation/main.cpp.obj
+.PHONY : src/presentation/main.obj
 
 # target to build an object file
-src/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyecto-estructuras.dir\build.make CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj
-.PHONY : src/main.cpp.obj
+src/presentation/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyecto-estructuras.dir\build.make CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj
+.PHONY : src/presentation/main.cpp.obj
 
-src/main.i: src/main.cpp.i
-.PHONY : src/main.i
+src/presentation/main.i: src/presentation/main.cpp.i
+.PHONY : src/presentation/main.i
 
 # target to preprocess a source file
-src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyecto-estructuras.dir\build.make CMakeFiles/proyecto-estructuras.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
+src/presentation/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyecto-estructuras.dir\build.make CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.i
+.PHONY : src/presentation/main.cpp.i
 
-src/main.s: src/main.cpp.s
-.PHONY : src/main.s
+src/presentation/main.s: src/presentation/main.cpp.s
+.PHONY : src/presentation/main.s
 
 # target to generate assembly for a file
-src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyecto-estructuras.dir\build.make CMakeFiles/proyecto-estructuras.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
+src/presentation/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\proyecto-estructuras.dir\build.make CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.s
+.PHONY : src/presentation/main.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... proyecto-estructuras
-	@echo ... src/main.obj
-	@echo ... src/main.i
-	@echo ... src/main.s
+	@echo ... src/presentation/main.obj
+	@echo ... src/presentation/main.i
+	@echo ... src/presentation/main.s
 .PHONY : help
 
 

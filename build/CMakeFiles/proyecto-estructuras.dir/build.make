@@ -68,29 +68,29 @@ include CMakeFiles/proyecto-estructuras.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/proyecto-estructuras.dir/flags.make
 
-CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj: CMakeFiles/proyecto-estructuras.dir/flags.make
-CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj: CMakeFiles/proyecto-estructuras.dir/includes_CXX.rsp
-CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj: C:/Users/Nott/Documents/Universidad/Estructura\ de\ datos/MineWhisper/Proyecto_1-main/src/main.cpp
-CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj: CMakeFiles/proyecto-estructuras.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Nott\Documents\Universidad\Estructura de datos\MineWhisper\Proyecto_1-main\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj -MF CMakeFiles\proyecto-estructuras.dir\src\main.cpp.obj.d -o CMakeFiles\proyecto-estructuras.dir\src\main.cpp.obj -c "C:\Users\Nott\Documents\Universidad\Estructura de datos\MineWhisper\Proyecto_1-main\src\main.cpp"
+CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj: CMakeFiles/proyecto-estructuras.dir/flags.make
+CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj: CMakeFiles/proyecto-estructuras.dir/includes_CXX.rsp
+CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj: C:/Users/Nott/Documents/Universidad/Estructura\ de\ datos/MineWhisper/Proyecto_1-main/src/presentation/main.cpp
+CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj: CMakeFiles/proyecto-estructuras.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Nott\Documents\Universidad\Estructura de datos\MineWhisper\Proyecto_1-main\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj -MF CMakeFiles\proyecto-estructuras.dir\src\presentation\main.cpp.obj.d -o CMakeFiles\proyecto-estructuras.dir\src\presentation\main.cpp.obj -c "C:\Users\Nott\Documents\Universidad\Estructura de datos\MineWhisper\Proyecto_1-main\src\presentation\main.cpp"
 
-CMakeFiles/proyecto-estructuras.dir/src/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/proyecto-estructuras.dir/src/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Nott\Documents\Universidad\Estructura de datos\MineWhisper\Proyecto_1-main\src\main.cpp" > CMakeFiles\proyecto-estructuras.dir\src\main.cpp.i
+CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Nott\Documents\Universidad\Estructura de datos\MineWhisper\Proyecto_1-main\src\presentation\main.cpp" > CMakeFiles\proyecto-estructuras.dir\src\presentation\main.cpp.i
 
-CMakeFiles/proyecto-estructuras.dir/src/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proyecto-estructuras.dir/src/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Nott\Documents\Universidad\Estructura de datos\MineWhisper\Proyecto_1-main\src\main.cpp" -o CMakeFiles\proyecto-estructuras.dir\src\main.cpp.s
+CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Nott\Documents\Universidad\Estructura de datos\MineWhisper\Proyecto_1-main\src\presentation\main.cpp" -o CMakeFiles\proyecto-estructuras.dir\src\presentation\main.cpp.s
 
 # Object files for target proyecto-estructuras
 proyecto__estructuras_OBJECTS = \
-"CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj"
+"CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj"
 
 # External object files for target proyecto-estructuras
 proyecto__estructuras_EXTERNAL_OBJECTS =
 
-proyecto-estructuras.exe: CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj
+proyecto-estructuras.exe: CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj
 proyecto-estructuras.exe: CMakeFiles/proyecto-estructuras.dir/build.make
 proyecto-estructuras.exe: CMakeFiles/proyecto-estructuras.dir/linkLibs.rsp
 proyecto-estructuras.exe: CMakeFiles/proyecto-estructuras.dir/objects1.rsp

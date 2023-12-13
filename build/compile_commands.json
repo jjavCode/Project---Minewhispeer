@@ -1,8 +1,8 @@
 [
 {
   "directory": "C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/build",
-  "command": "C:\\MinGW\\bin\\g++.exe -DCMAKE_BUILD_TYPE=Debug @CMakeFiles/proyecto-estructuras.dir/includes_CXX.rsp  -O0 -DDEBUG -Wall -g -std=gnu++1z -o CMakeFiles\\proyecto-estructuras.dir\\src\\main.cpp.obj -c \"C:\\Users\\Nott\\Documents\\Universidad\\Estructura de datos\\MineWhisper\\Proyecto_1-main\\src\\main.cpp\"",
-  "file": "C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/src/main.cpp",
-  "output": "CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj"
+  "command": "C:\\MinGW\\bin\\g++.exe -DCMAKE_BUILD_TYPE=Debug @CMakeFiles/proyecto-estructuras.dir/includes_CXX.rsp  -O0 -DDEBUG -Wall -g -std=gnu++1z -o CMakeFiles\\proyecto-estructuras.dir\\src\\presentation\\main.cpp.obj -c \"C:\\Users\\Nott\\Documents\\Universidad\\Estructura de datos\\MineWhisper\\Proyecto_1-main\\src\\presentation\\main.cpp\"",
+  "file": "C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/src/presentation/main.cpp",
+  "output": "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj"
 }
 ]

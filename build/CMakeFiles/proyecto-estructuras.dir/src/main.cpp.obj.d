@@ -125,6 +125,6 @@ CMakeFiles/proyecto-estructuras.dir/src/main.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\quoted_string.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\sstream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\sstream.tcc \
- C:\Users\Nott\Documents\Universidad\Estructura\ de\ datos\MineWhisper\Proyecto_1-main\src\score.hpp \
- C:\Users\Nott\Documents\Universidad\Estructura\ de\ datos\MineWhisper\Proyecto_1-main\src\highScores.hpp \
- C:\Users\Nott\Documents\Universidad\Estructura\ de\ datos\MineWhisper\Proyecto_1-main\src\game.hpp
+ C:/Users/Nott/Documents/Universidad/Estructura\ de\ datos/MineWhisper/Proyecto_1-main/src/dates/score.hpp \
+ C:/Users/Nott/Documents/Universidad/Estructura\ de\ datos/MineWhisper/Proyecto_1-main/src/dates/highScores.hpp \
+ C:/Users/Nott/Documents/Universidad/Estructura\ de\ datos/MineWhisper/Proyecto_1-main/src/logic/game.hpp
