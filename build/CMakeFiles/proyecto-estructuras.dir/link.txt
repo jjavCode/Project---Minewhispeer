@@ -1,3 +1,1 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\proyecto-estructuras.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\proyecto-estructuras.dir/objects.a @CMakeFiles\proyecto-estructuras.dir\objects1.rsp
-C:\MinGW\bin\g++.exe  -O0 -DDEBUG -Wall -g -Wl,--whole-archive CMakeFiles\proyecto-estructuras.dir/objects.a -Wl,--no-whole-archive -o proyecto-estructuras.exe -Wl,--out-implib,libproyecto-estructuras.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\proyecto-estructuras.dir\linkLibs.rsp
+/usr/bin/c++  -O0 -DDEBUG -Wall -g "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.o" -o proyecto-estructuras 

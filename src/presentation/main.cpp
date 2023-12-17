@@ -1,23 +1,21 @@
-#include <iostream>
-#include <fstream>
-#include <string>
 #include <cstdlib>
 #include <ctime>
-#include <iomanip>
-#include "src/dates/score.hpp"
-#include "src/dates/highScores.hpp"
-#include "src/logic/game.hpp"
+#include <iostream>
+#include <string>
+#include "dates/highScores.hpp"
+#include "dates/score.hpp"
+#include "logic/game.hpp"
 
 using namespace std;
 
-int max(int x, int y){
-    if(x>y){
+int max(int x, int y) {
+    if (x > y) {
         return x;
     }
     return y;
 }
-int min(int x, int y){
-    if(x<y){
+int min(int x, int y) {
+    if (x < y) {
         return x;
     }
     return y;
@@ -42,13 +40,14 @@ int main() {
     cout << "'_' representa casillas tapadas" << endl;
     cout << "________________________________________________" << endl;
     cout << "Para ganar" << endl;
-    cout << "1. Se marcan todas las minas dependiendo del nivel de dificultad" << endl;
+    cout << "1. Se marcan todas las minas dependiendo del nivel de dificultad"
+         << endl;
     cout << "2. Se libera todo el mapa menos las minas" << endl << endl;
     cout << "Para perder" << endl;
     cout << "1. Se marca una mina" << endl;
     cout << "________________________________________________" << endl;
 
-    do{
+    do {
         cout << "Menu de Juego" << endl;
         cout << "a. Ver Lista de Scores." << endl;
         cout << "b. Definir el nombre del Jugador." << endl;
@@ -56,7 +55,7 @@ int main() {
         cout << "d. Salir." << endl;
         cout << "Elija una opcion: ";
         cin >> opcion;
-        switch(opcion) {
+        switch (opcion) {
             case 'a':
                 hs.displayHighScores();
                 break;
@@ -80,6 +79,6 @@ int main() {
                 cout << "Ingrese una opcion valida (a, b, c, d)." << endl;
                 break;
         }
-    }while(opcion != 'd');
+    } while (opcion != 'd');
     return 0;
 }

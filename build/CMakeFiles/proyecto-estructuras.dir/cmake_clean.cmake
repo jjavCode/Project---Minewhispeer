@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj"
-  "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj.d"
-  "libproyecto-estructuras.dll.a"
-  "proyecto-estructuras.exe"
-  "proyecto-estructuras.exe.manifest"
+  "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.o"
+  "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.o.d"
+  "proyecto-estructuras"
   "proyecto-estructuras.pdb"
 )
 

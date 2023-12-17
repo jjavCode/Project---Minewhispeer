@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Nott/Documents/Universidad/Estructura de datos/MineWhisper/Proyecto_1-main/src/presentation/main.cpp" "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj" "gcc" "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.obj.d"
+  "/home/sortextg/CodeProjects/Cpp/Project---Minewhispeer/src/presentation/main.cpp" "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.o" "gcc" "CMakeFiles/proyecto-estructuras.dir/src/presentation/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
